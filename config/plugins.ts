@@ -1,7 +1,5 @@
 export default ({env}) => ({
-    "strapi-v5-database-backup": {
-    enabled: true,
-  },
+   
   upload: {
     config: {
       provider: "cloudinary",
